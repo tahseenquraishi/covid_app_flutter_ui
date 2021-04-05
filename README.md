@@ -1,4 +1,4 @@
-# flutter_ui_challenge_1
+# Covid app flutter ui
 
 A new Flutter project.
 
