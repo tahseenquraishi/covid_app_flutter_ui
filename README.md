@@ -1,3 +1,4 @@
+<img width="725" alt="Screenshot 2021-04-04 at 11 13 30 PM" src="https://user-images.githubusercontent.com/28984101/113721567-44d34e80-970d-11eb-9a07-a06406446ddd.png">
 # Covid app flutter ui
 
 A new Flutter project.
